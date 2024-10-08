@@ -24,4 +24,5 @@ Na área de consultas, configure os objetivos que deseja alcançar usando o pred
 
 ### Executar o Planejador
 
-Após configurar o estado inicial e as metas, execute o planejamento para simular e resolver o problema.
+Após configurar o estado inicial e as metas, execute o planejamento para simular e resolver o problema. digite na query
+? - planejador(Plan)
