@@ -18,11 +18,10 @@ Abra o ambiente de desenvolvimento Prolog e carregue o arquivo fornecido.
 
 ### Configurar o Estado Inicial
 
-Edite ou ative a definição do estado inicial (`state1` predicado) no arquivo Prolog, conforme o problema que você está resolvendo. Veja o exemplo no código.
+Edite a definição do estado inicial (`sart_state` predicado) no arquivo Prolog, conforme o problema que você está resolvendo.
 
-### Definir as Metas
-
-Na área de consultas, configure os objetivos que deseja alcançar usando o predicado `plan`. Exemplo no código para referência.
+### Configurar a Meta
+Edite a definição  o estado final (`goal_state` predicado) no arquivo Prolog, conforme o problema que você está resolvendo.
 
 ### Executar o Planejador
 
