@@ -25,5 +25,4 @@ Edite a definição  o estado final (`goal_state` predicado) no arquivo Prolog, 
 
 ### Executar o Planejador
 
-Após configurar o estado inicial e as metas, execute o planejamento para simular e resolver o problema. digite na query
-? - planejador(Plan)
+Após configurar o estado inicial e as metas, execute o planejamento para simular e resolver o problema. digite na query '''Prolog ? - planejador(Plan)'''
