@@ -4,7 +4,7 @@
 - Renata Rodrigues Coelho
 - Thiago Vítor Gomes Pereira
 
-## 📖 Guia de Execução Passo a Passo
+## Guia de Execução Passo a Passo
 
 ### Ambiente Prolog
 
